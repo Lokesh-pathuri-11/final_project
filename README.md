@@ -28,5 +28,5 @@
 ![static web apps](https://user-images.githubusercontent.com/99123811/210083426-63250fa6-5b39-4d2c-a798-87d82a2805ab.png)
 ##
 ![app services](https://user-images.githubusercontent.com/99123811/210083553-9b8518ba-d4b6-4e27-a208-caa8eecba9df.png)
-## Microsoft Azure services used 
+## Microsoft Azure services used :
 ![Imggg](https://user-images.githubusercontent.com/99123811/210083655-51a2ea97-21a7-45a1-915a-5aaac116d58b.png)
