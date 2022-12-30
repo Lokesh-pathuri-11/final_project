@@ -6,15 +6,15 @@ Member 2: 208x1a0569@khitguntur.ac.in
 Member 3: 208x1a0570@khitguntur.ac.in
 Member 4: 208x1a05c0@khitguntur.ac.in
 ## Project synopsis :
-### Industry : Lifestyle
+**Industry :** Lifestyle
 
-## Project Title : vogue_store
+**Project Title :** vogue_store
 
-Problem Statement/Opportunity : This project helps the user to find out the current trend and helps to make decision to purchase the product according to their age and purpose.
+**Problem Statement/Opportunity :** This project helps the user to find out the current trend and helps to make decision to purchase the product according to their age and purpose.
 
-Project Description : We have created a HTML page consisting of 5 HTML files, about, contact, index, products, single-product in which index is the main HTML page and the remaining pages are the supporting pages to the main HTML file. This page automatically allows the user to find latest trends and also according to their interests and age.
+**Project Description :** We have created a HTML page consisting of 5 HTML files, about, contact, index, products, single-product in which index is the main HTML page and the remaining pages are the supporting pages to the main HTML file. This page automatically allows the user to find latest trends and also according to their interests and age.
 
-Primary Azure Technology : App Service, Static Web Apps.
+**Primary Azure Technology :** App Service, Static Web Apps.
 
 ## Static web apps link : https://icy-meadow-04d7a3200.2.azurestaticapps.net
 ![static web apps](https://user-images.githubusercontent.com/99123811/210083426-63250fa6-5b39-4d2c-a798-87d82a2805ab.png)
