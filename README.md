@@ -2,9 +2,12 @@
 ## Group project --Microsoft Azure
 ## Group details :
 ## Group Rep: 208x1a0575@khitguntur.ac.in
-Member 2: 208x1a0569@khitguntur.ac.in
-Member 3: 208x1a0570@khitguntur.ac.in
-Member 4: 208x1a05c0@khitguntur.ac.in
+
+**Member 2: 208x1a0569@khitguntur.ac.in**
+
+**Member 3: 208x1a0570@khitguntur.ac.in**
+
+**Member 4: 208x1a05c0@khitguntur.ac.in**
 ## Project synopsis :
 **Industry :** Lifestyle
 
