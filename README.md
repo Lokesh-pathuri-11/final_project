@@ -34,4 +34,12 @@
 
 ## Contact Us
 
-![ContactUs](https://user-images.githubusercontent.com/99123811/213735603-11b85118-4fbd-4c8c-bd7a-aff46e1f0e38.png)
+![ContactUs](https://user-images.githubusercontent.com/99123811/213740965-770d3329-62e5-4689-bc42-dfb4be9a9acc.png)
+
+![image](https://user-images.githubusercontent.com/99123811/213741179-ac4248f9-f998-4335-b061-c7b21a77aaa0.png)
+
+## About Us
+
+![AboutUs](https://user-images.githubusercontent.com/99123811/213742096-63bc136d-9e73-458f-98aa-953b38745323.png)
+
+![22](https://user-images.githubusercontent.com/99123811/213742786-b2959536-0b76-4702-b5ce-ee86fc97fa59.png)
