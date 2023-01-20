@@ -19,11 +19,11 @@
 
 **Primary Azure Technology :** App Service, Static Web Apps.
 
-**Static Web App URL :** 
+## **Static Web App URL :** https://icy-meadow-04d7a3200.2.azurestaticapps.net
 
-**App Services URL :** 
+## **App Services URL :** https://vogue-store.azurewebsites.net
 
-## My website link : 
+## My website link : https://lokesh-pathuri-11.github.io/vogue_store/
 
 ## Home
 ## ![image](https://user-images.githubusercontent.com/99123811/213729537-f44c7790-14be-471b-878c-ab7e1cb29de7.png)
@@ -51,3 +51,11 @@
 
 ## Demo video :-
 
+
+## Azure Services Used :-
+
+# ![image](https://user-images.githubusercontent.com/99123811/213753406-b2a0e8bf-d33e-4fab-b887-9bee6a238d0f.png)
+
+# ![image](https://user-images.githubusercontent.com/99123811/213746659-eadb7f0d-cf48-4693-8e73-1d4e36063d17.png)
+
+# ![image](https://user-images.githubusercontent.com/99123811/213753136-2f04b2dc-a5db-40d9-b99d-bb276c3c67a8.png)
