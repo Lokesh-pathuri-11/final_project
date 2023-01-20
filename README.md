@@ -1,7 +1,7 @@
 ## vogue_store --Microsoft Azure Project
 ## Group project --Microsoft Azure
 ## Group details :
-## Group Rep: 208x1a0575@khitguntur.ac.in
+**Group Rep:** ***208x1a0575@khitguntur.ac.in***
 
 **Member 2: 208x1a0569@khitguntur.ac.in**
 
