@@ -54,8 +54,8 @@
 
 ## Azure Services Used :-
 
-# ![image](https://user-images.githubusercontent.com/99123811/213753406-b2a0e8bf-d33e-4fab-b887-9bee6a238d0f.png)
+## ![image](https://user-images.githubusercontent.com/99123811/213753406-b2a0e8bf-d33e-4fab-b887-9bee6a238d0f.png)
 
-# ![image](https://user-images.githubusercontent.com/99123811/213746659-eadb7f0d-cf48-4693-8e73-1d4e36063d17.png)
+## ![image](https://user-images.githubusercontent.com/99123811/213760168-95ad8000-6218-4786-93fa-d96e9af06520.png)
 
-# ![image](https://user-images.githubusercontent.com/99123811/213753136-2f04b2dc-a5db-40d9-b99d-bb276c3c67a8.png)
+## ![image](https://user-images.githubusercontent.com/99123811/213753136-2f04b2dc-a5db-40d9-b99d-bb276c3c67a8.png)
